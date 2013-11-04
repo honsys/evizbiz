@@ -1,7 +1,7 @@
 evizbiz
 =======
 
-2-D and 3-D Visualization leveraging mature open-standards and open-source technologies:
+2-D and 3-D Visualization leveraging mature open-standards and open-source:
 
 1. XML/SVG via Javascript D3 -- <http://d3js.org> and <http://www.d3noob.org> 
 2. WebGL -- although threejs is used by Tony Parisi in his WegGL book, there are many choices:
