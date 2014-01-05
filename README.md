@@ -8,7 +8,8 @@ evizbiz
   * <http://it-ebooks.info/book/2673> -- a book about enchant.js
   * <https://github.com/wise9/enchant.js> -- evidently includes a WebGL plugin. 
 
-2. WebGL -- although threejs is used by Tony Parisi in his WegGL book, there are many choices:
+2. WebGL -- <http://it-ebooks.info/tag/webgl> provides WebGL ebooks.
+and although threejs is used by Tony Parisi in his WegGL book, there are many choices:
   * <http://enchantjs.com>
   * <http://c3dl.org>
   * <http://cubicvr.org>
